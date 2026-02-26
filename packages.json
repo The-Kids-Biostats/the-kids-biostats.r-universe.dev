@@ -2,5 +2,9 @@
     {
         "package": "thekidsbiostats",
         "url": "https://github.com/The-Kids-Biostats/thekidsbiostats"
+    },
+    {
+        "package": "WAACHShelp",
+        "url": "https://github.com/The-Kids-Biostats/WAACHShelp"
     }
 ]
